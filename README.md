@@ -12,7 +12,7 @@ Welcome to the homepage of Paper Book Sync eReader, an innovative application de
 
 ## Privacy Policy
 
-We value your privacy. To learn more about the data we collect and how we use it, please read our [Privacy Policy](/privacy).
+We value your privacy. To learn more about the data we collect and how we use it, please read our [Privacy Policy](/privacy.html).
 
 ## Download
 
