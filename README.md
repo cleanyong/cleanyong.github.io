@@ -12,7 +12,7 @@ Welcome to the homepage of Paper Book Sync eReader, an innovative application de
 
 ## Privacy Policy
 
-We value your privacy. To learn more about the data we collect and how we use it, please read our [Privacy Policy]([Your GitHub Pages URL]/privacy).
+We value your privacy. To learn more about the data we collect and how we use it, please read our [Privacy Policy](/privacy).
 
 ## Download
 
@@ -22,4 +22,4 @@ Get Paper Book Sync eReader on Google Play Store and start synchronizing your re
 
 ## Contact Us
 
-If you have any questions or feedback, we'd love to hear from you. Contact us at [Your Contact Email].
+If you have any questions or feedback, we'd love to hear from you. Contact us at paperbooksyncereader AT@ gmail.com.
