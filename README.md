@@ -1,5 +1,3 @@
-# Welcome to @cleanyong the YouTuber's  github , also Homepage
-
 # 淨勇 Clean Yong
 
 什么东西都不安全，自己写代码吧。  
