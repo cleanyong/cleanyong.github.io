@@ -1,4 +1,49 @@
 ---
+# Only the first 3 dashes needed by Jekyll
 ---
 
-@import "{{ site.theme }}";
+/* 从 minima 主题继承 */
+@import "minima";
+
+/* 下面开始是深色主题自定义 */
+
+body {
+  background: #0d0f17;
+  color: #e0e0e0;
+}
+
+/* 链接颜色 */
+a {
+  color: #8ab4ff;
+}
+
+/* 链接 hover */
+a:hover {
+  color: #ffffff;
+}
+
+/* 标题 */
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff;
+}
+
+/* 分割线 */
+hr {
+  border-color: #333;
+}
+
+/* 代码块 */
+pre, code {
+  background: #1a1f2b;
+  color: #d4d4d4;
+}
+
+/* 卡片效果（类似你 screenshot 那种盒子） */
+.card {
+  background: #10131c;
+  border: 1px solid #1f2532;
+  border-radius: 14px;
+  padding: 18px;
+  margin-bottom: 20px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.3);
+}
